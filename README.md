@@ -32,7 +32,7 @@ Option I have a small OLED display for which I use the *Adafruit_SSD1306* routin
 
 
 
-![PA1ER_SA818](/Users/erikjan/Documents/Arduino/esp/sa818_pa1er/PA1ER_SA818.png)
+![PA1ER_SA818](PA1ER_SA818.png)
 
 ### Software
 
